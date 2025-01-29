@@ -1,5 +1,5 @@
 # 💫 About Me:
-CSE'25 |<br>🌱 Learning Web Dev.<br>👯 Student at MyCEM.<br>💬 Ask me about Web Development.<br>📫 How to reach me: manojn-
+CSE'25 |<br>🌱 Learning Web Dev.<br>👯 Student at MyCEM.<br>💬 Ask me about Web Development.<br>
 
 
 ## 🌐 Socials:
